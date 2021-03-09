@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1614716708 source:c:\users\byrontosh\desktop\quicksort\main.cpp
+	<iostream>
+	"quicksort.h"
+	"ingresar.h"
+	<operaciones>
+	<demoaed>
+
+1614715671 c:\users\byrontosh\desktop\quicksort\quicksort.h
+
+1614716040 c:\users\byrontosh\desktop\quicksort\ingresar.h
+	<iostream>
+
